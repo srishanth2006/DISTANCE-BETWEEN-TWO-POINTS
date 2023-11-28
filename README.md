@@ -34,3 +34,4 @@ print("{0:.2f}".format(distance))
 
 
 ### RESULT:
+Thus, the program to find the distance two 2 points successfully executed.
